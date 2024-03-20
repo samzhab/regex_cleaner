@@ -19,7 +19,7 @@ This Ruby script, `regex_cleaner.rb`, processes all text files in the `text_file
 4. For activity and error logs, create the `logs` folder.
 5. Each JSON file is named after the title of the document and saved in a directory named `serialized_files` make sure it exists.
 
-## Logging and Error Handling:
+## Logging and Error Handling
 
 The script utilizes a Logger to log informational messages to both standard output (STDOUT) and a log file (regex_cleaner.log).
 It includes error handling mechanisms to catch and log any exceptions that occur during file processing.
